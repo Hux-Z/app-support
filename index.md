@@ -37,4 +37,4 @@ EANx Assistant让复杂的高氧潜水计算变得简单。无需网络连接，
 
 ## 隐私政策
 
-https://hux-z.github.io/nitroxcalc-privacy/
+https://hux-z.github.io/EANx-privacy/
